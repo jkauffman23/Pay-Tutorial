@@ -4,7 +4,7 @@
 		
 		<!-- ManagedPay Left navigation -->
 		<!-- Common Labels * * * * * * * * * * * * * * * * * * * * * * * * * * * *  -->
-			<label name="section.mpnavigation" value="Active Pay"/>
+			<label name="section.mpnavigation" value="Active Pay TEST"/>
 			<label name="version" value="1.0001" />
 			<label name="number" value="Invoice"/>	
 			<label name="action.myinbox" value="My Work Inbox"/>						
